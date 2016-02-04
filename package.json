@@ -1,10 +1,14 @@
 {
   "name": "react-native-tools",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Tools for react native project development",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+      "type": "git",
+      "url": "git://github.com/kkennis/react-native-tools.git"
   },
   "keywords": [
     "react-native",
